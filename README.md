@@ -1,7 +1,7 @@
 # CSI-2-FourLane-HDMI-Extender
 A simple MIPI CSI-2 extender with 4-lane support through HDMI cable
 
-![](https://github.com/will127534/CSI-2-FourLane-HDMI-Extender/blob/Images/_DSC7815.jpg)
+![](https://github.com/will127534/CSI-2-FourLane-HDMI-Extender/blob/main/Images/_DSC7815.jpg)
 
 ## Hardware
 Technically, this isn’t supposed to work, but it kind of does. It relies on HDMI cables with Ethernet support to provide the fifth differential pair needed to transmit 4-lane MIPI signals through the HDMI cable.
