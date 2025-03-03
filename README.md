@@ -31,3 +31,4 @@ Lastly, I did try using MIPI redrivers and retimers from [Ti](https://www.ti.com
 ](https://github.com/openscopeproject/InteractiveHtmlBom)
 * Yes It still supports 2-lane MIPI cameras (tested with the IMX708 Raspberry Pi Camera V3).
 * I have almost no intention of selling this on Tindie, because I can already imagine users who don’t fully understand the details running into troubles and complaining about it.
+* [@VoeGalore](https://github.com/VoeGalore/CSI-2-FourLane-HDMI-Extender) made 3D-printable cases for using the transmitter board with starlighteye(IMX585), oneincheye(IMX283), and Camera Module V3. STL files are under /case-STL in each folders. Additional hardware might be needed (M2x16 screws, M2x6 screws, M2 threaded insert, 1/4-20 threaded insert).
